@@ -1,6 +1,6 @@
 {
-  "name": "ai-security-suite",
-  "version": "2.0.0",
+  "name": "mythos-mini",
+  "version": "3.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,6 +10,7 @@
   "dependencies": {
     "next": "14.2.3",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "jspdf": "^2.5.1"
   }
 }
